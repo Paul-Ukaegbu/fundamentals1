@@ -18,7 +18,7 @@ namespace fundamentals1
                       Console.WriteLine("Buzz");
                   }
                   else{
-                      Console.WriteLine("fizzbuzz");
+                      Console.WriteLine("fizzfizz");
                   }
             }
           
